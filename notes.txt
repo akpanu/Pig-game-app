@@ -1,0 +1,2 @@
+Section 7: Javascript in the Browser: DOM and Events Fundamentals
+1. Selecting and manipulating elements
